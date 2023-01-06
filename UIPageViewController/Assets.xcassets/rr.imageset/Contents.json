@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "new-ghost-white-fr-3-4-1-1598911711.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "new-ghost-white-fr-3-4-1-1598911711 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "new-ghost-white-fr-3-4-1-1598911711 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
